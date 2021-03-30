@@ -1,6 +1,6 @@
 import React from "react";
 import { Canvas } from "react-three-fiber";
-import "/.App.css";
+import "./App.css";
 
 function Sphere() {
   return (
